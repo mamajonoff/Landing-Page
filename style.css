@@ -1,0 +1,39 @@
+.mrmsg {
+    margin: 0 220px;
+}
+
+.pdhome {
+    padding: 0 150px;
+}
+
+.txtgr {
+    background: #121FCF;
+    background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.txtli {
+    background: #CF42B3;
+background: linear-gradient(to right, #CF42B3 29%, #00FF00 41%, #215CFF 46%, #CF4F21 76%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+
+.pic {
+    width: 100%;
+}
+
+.martop {
+    margin-top: 10px 0;
+}
+
+.marnum {
+    margin: 0 600px;
+}
+
+.mbottom {
+    margin: 0 220px;
+}
